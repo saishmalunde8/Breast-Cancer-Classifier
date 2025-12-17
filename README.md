@@ -16,7 +16,6 @@ also train the network with different hyperparameters.
 * The generated test, validation and training dataset are also stored in "Datasets" folder.
 
 ## How to run?
-* Open command prompt in the cloned folder.
 * Run the following commands
 ``` 
 pip install -r requirements.txt
